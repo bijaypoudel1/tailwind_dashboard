@@ -5,7 +5,7 @@
 
 
 @layer components{
-    .download_btn{
-        @apply p-5 bg-orange-600 text-white rounded-md
+    .nav-icon{
+        @apply bg-gray-100 rounded-full w-10 h-10 p-1
     }
 }
